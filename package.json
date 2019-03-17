@@ -13,6 +13,6 @@
   "author": "Ryan Brennan",
   "license": "MIT",
   "dependencies": {
-    "brain": "^1.0.0"
+    "brain.js": "^1.6.1"
   }
 }
