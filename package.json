@@ -1,0 +1,18 @@
+{
+  "name": "smartypants",
+  "version": "1.0.0",
+  "description": "neural network",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "to be added"
+  },
+  "author": "Ryan Brennan",
+  "license": "MIT",
+  "dependencies": {
+    "brain": "^1.0.0"
+  }
+}
